@@ -9,6 +9,9 @@
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
              649839571@qq.com 
+         </span>
+       	 ·
+       	 <span>
              <img src="assets/envelope-solid.svg" width="18px">
              Bitamin.kim@gmail.com
          </span>
@@ -31,20 +34,30 @@
 
    2年工作经验，意向大型项目后端，熟悉SSM，jfinal,jboot 框架，熟练使用springboot快速开发和小程序开发。喜欢新技术，代码洁癖，注重代码规范和质量，善于独立定位解决问题。熟悉前端开发，熟练使用vue全家桶，jquery库，echarts图表，animate.css，elementui等前端常用框架，熟练使用linux系统进行项目部署，环境搭建。
    
-   
-
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 
-- 专科，上海建桥学院，工商管理，2014.9~2017.7
 
-  
+## <img src="/Users/bitaminkim/Documents/Project/resume/assets/tools-solid.svg" width="30px"> 技能清单
+
+- 熟练掌握Java基础，了解PHP，有扎实的计算机理论基础.
+- 熟悉Jfinal，Jboot，SSM，SpringBoot开源框架的使用
+- 熟悉 MySQL，Redis数据库的使用和基本原理，了解数据库原理.
+- 了解Linux系统，熟悉Linux的基本操作，能够使用Maven，Git，Svn进行项目开发.
+- 了解Docker，掌握Docker的基本操作. 
+- 熟悉计算机网络，熟悉TCP/IP，HTTP等网络协议.
+- 熟练使用HTML，JS，CSS的前端开发
+- 熟悉Jquery库，Vue框架，ElementUi，iViewUi的使用。
+- 熟悉微信小程序的前端开发
+
+
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
 - **上海深为软件技术有限公司   (2年)，2017.10~至今**
 
    我任职于项目开发部门，负责Java和前端的技术栈开发。主要项目为木材集团公司的多个管理系统(集团官网，线下设备机软件，集团定制化跨境业务平台等)，项目由Java和php为后端接口支持以及前端使用jQuery库组成。整体系统程序和存储部署在阿里云上，区分正式，测试机。其他项目由1到3个成员进行前后端开发，项目有小程序，企业活动H5，社区门户官网和电商分销系统
+   
+   
    
    
 
@@ -59,6 +72,8 @@
   - 负责功能：
   
     使用单页应用方式，采用Vue-Cli脚手架+elementUI框架+PHP后端编写数据接口。 项目数据根据第三方平台登录后获取的token值和客户信息到Ams平台中比对，token正常则返回当前客户下的所有合同数据，并在前台中展示 
+    
+    
   
 - **木材云物流配送大数据** *2018.11～2018.12*
 
@@ -69,6 +84,8 @@
   - 负责功能：
 
     使用Vue框架+v-echarts组件图表对接后台提供的数据编写前端页面实现实时刷新的动态效果。 
+    
+    
 
 - **大英博物馆（亘古奥秘流动体验馆）** *2018.08～2018.09*
 
@@ -78,7 +95,13 @@
 
   - 负责功能：
 
-    使用小程序原生代码对所有前端页面进行开发 使用Java+JBoot框架负责所有后端功能的开发，用户管理，权限管理，商品管理（含有小程序码生成和列表动态显示），单页管理，banner管理，日志记录管理， 第三方平台接口对接。项目完成后部署于阿里云服务器，使用centos部署。  
+    使用小程序原生代码对所有前端页面进行开发 使用Java+JBoot框架负责所有后端功能的开发，用户管理，权限管理，商品管理（含有小程序码生成和列表动态显示），单页管理，banner管理，日志记录管理， 第三方平台接口对接。项目完成后部署于阿里云服务器，使用centos部署。 
+
+
+
+
+
+
 
 - **艾拉蜜妮药妆电子商务分销系统** *2018.01～2018.06*
 
@@ -89,6 +112,9 @@
   - 负责功能：
 
     开发前端使用的H5页面提供在公众号中(后端接口使用PHP语言)，开发小程序前端的所有代码(后端接口使用JAVA语言+Jboot框架)。 
+    
+    
+
 
 - **深为公司官网** *2017.11～2017.12*
 
@@ -99,6 +125,8 @@
   - 负责功能：
 
     使用Jfinal框架独立编写开发系统的后台以及前台展示页面。  
+    
+    
 
 - **上海迈林木材云AMS管理平台** *2017.11～至今*
 
@@ -113,14 +141,8 @@
     编写了多系统间的数据互通Api系统，主要解决甲方ams系统提交审批数据给乙方系统审批后响应回甲方系统进行下一步的流程流转。
     根据禅道测试人员提交的bug对项目bug进行原因排查及解决 	 
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 熟练掌握Java基础，了解PHP，有扎实的计算机理论基础.
-- 熟悉Jfinal，Jboot，SSM，SpringBoot开源框架的使用
-- 熟悉 MySQL，Redis数据库的使用和基本原理，了解数据库原理.
-- 了解Linux系统，熟悉Linux的基本操作，能够使用Maven，Git，Svn进行项目开发.
-- 了解Docker，掌握Docker的基本操作. 
-- 熟悉计算机网络，熟悉TCP/IP，HTTP等网络协议.
-- 熟练使用HTML，JS，CSS的前端开发
-- 熟悉Jquery库，Vue框架，ElementUi，iViewUi的使用。
-- 熟悉微信小程序的前端开发
+
+## <img src="/Users/bitaminkim/Documents/Project/resume/assets/graduation-cap-solid.svg" width="30px"> 教育经历
+
+- 专科，上海建桥学院，工商管理，2014.9~2017.7
