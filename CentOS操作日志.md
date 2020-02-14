@@ -231,7 +231,12 @@ docker-ce.x86_64            3:19.03.3-3.el7
 Determining fastest mirrors
  * base: mirrors.aliyun.com
 Available Packages
+```
+```bash
+# 设置稳定的仓库。
+sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 # 安装最新稳定版本
+$ sudo yum install docker-ce docker-ce-cli containerd.io
 [root@localhost ~]# yum -y install docker-ce
 ```
 ##### 设置开机启动
