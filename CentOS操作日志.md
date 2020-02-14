@@ -250,6 +250,7 @@ Available Packages
 # 通过查询官网 Install Compose on Linux systems找到最新版本安装命令
 [root@localhost ~]# sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 [root@localhost ~]# sudo chmod +x /usr/local/bin/docker-compose
+[root@localhost ~]# sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 # 检查版本
 [root@localhost ~]# docker-compose --version
 ```
