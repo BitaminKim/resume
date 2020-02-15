@@ -57,6 +57,8 @@ https://elrepo.org/linux/kernel/el版本号/x86_64/RPMS/
 ##### 查询当前已安装的内核
 ```bash
 [root@localhost ~]# rpm -qa | grep kernel
+or
+[root@localhost ~]# grub2-editenv list
 ```
 
 ##### 查询当前的内核启动顺序
@@ -73,6 +75,8 @@ CentOS Linux (0-rescue-c2bf71aa0bb54391adb6375abeaa5e4f) 7 (Core)
 ##### 修改Grub2启动引导管理，更改新内核优先启动
 ```bash
 [root@localhost ~]# sudo grub2-set-default 0
+or
+[root@localhost ~]# grub2-set-default "CentOS Linux (3.10.0-327.el7.x86_64) 7 (Core)" ;
 # 数字0根据查询出来的启动顺序从0开始算起
 ```
 
