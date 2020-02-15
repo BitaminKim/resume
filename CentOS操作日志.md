@@ -105,10 +105,14 @@ or
 ```
 
 
-##### 安装内核头
+##### 安装内核头和devel
 ```bash
+uname -a ; rpm -qa kernel\* | sort
+sudo yum install "kernel-devel-uname-r == $(uname -r)"
 # [root@localhost ~]# yum install kernel-headers
-
+#查询内核头
+yum list | grep kernel-headers
+# 安装内核头
 dkms status
 dpkg-query -s linux-headers-$(uname -r) 
 sudo yum install linux-headers-$(uname -r) 
