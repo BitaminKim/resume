@@ -104,6 +104,17 @@ or
 
 ```
 
+
+##### 安装内核头
+```bash
+# [root@localhost ~]# yum install kernel-headers
+
+dkms status
+dpkg-query -s linux-headers-$(uname -r) 
+sudo yum install linux-headers-$(uname -r) 
+```
+
+
 ##### 重启服务器
 ```bash
 [root@localhost ~]# reboot
