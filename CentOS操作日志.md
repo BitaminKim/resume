@@ -365,3 +365,8 @@ Hi BitaminKim! You've successfully authenticated, but GitHub does not provide sh
 [root@localhost ~]# npm -v
 
 ```
+
+#安装Wireguard
+```bash
+[root@localhost ~]# modprobe wireguard && lsmod | grep wireguard
+```
