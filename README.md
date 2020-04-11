@@ -37,7 +37,7 @@
 
 
 
-## <img src="/Users/bitaminkim/Documents/Project/resume/assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - 熟练掌握Java基础，了解PHP，有扎实的计算机理论基础.
 - 熟悉Jfinal，Jboot，SSM，SpringBoot开源框架的使用
@@ -143,6 +143,6 @@
 
 
 
-## <img src="/Users/bitaminkim/Documents/Project/resume/assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 专科，上海建桥学院，工商管理，2014.9~2017.7
