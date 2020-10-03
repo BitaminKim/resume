@@ -32,7 +32,7 @@
 
  - 简介：
 
-   2年工作经验，意向大型项目后端，熟悉SSM，jfinal,jboot 框架，熟练使用springboot快速开发和小程序开发。喜欢新技术，代码洁癖，注重代码规范和质量，善于独立定位解决问题。熟悉前端开发，熟练使用vue全家桶，jquery库，echarts图表，animate.css，elementui等前端常用框架，熟练使用linux系统进行项目部署，环境搭建。
+   2年工作经验，意向大型项目前后端开发，熟悉SSM，jfinal,jboot 框架，熟练使用springboot快速开发和小程序开发。喜欢新技术，代码洁癖，注重代码规范和质量，善于独立定位解决问题。熟悉前端开发，熟练使用vue全家桶，jquery库，echarts图表，animate.css，elementui等前端常用框架，熟练使用linux系统进行项目部署，环境搭建。
    
 
 
