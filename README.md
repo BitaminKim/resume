@@ -141,6 +141,14 @@
     编写了多系统间的数据互通Api系统，主要解决甲方ams系统提交审批数据给乙方系统审批后响应回甲方系统进行下一步的流程流转。
     根据禅道测试人员提交的bug对项目bug进行原因排查及解决 	 
 
+## 项目截图
+![1](assets/1.jpg)
+![2](assets/2.jpg)
+![3](assets/3.jpg)
+![4](assets/4.jpg)
+![5](assets/5.jpg)
+![6](assets/6.jpg)
+![7](assets/7.jpg)
 
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
